@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
-
 # the scripting-addition must be loaded manually if
 # you are running yabai on macOS Big Sur. Uncomment
 # the following line to have the injection performed
@@ -66,7 +65,7 @@ yabai -m rule --add app="^Brave Browser$" space=web
 yabai -m rule --add app="^Notes$" space=notes
 yabai -m rule --add app="^Transmission$" space=media
 yabai -m rule --add app="^Spotify$" space=media
-yabai -m rule --add app="^Discord$" space=social grid=1:1:0:0:1:1 manage=off
+yabai -m rule --add app="^Discord$" space=social manage=off
 yabai -m rule --add app="^Steam$" space=games manage=off
 yabai -m rule --add app="^System Preferences$" manage=off
 
