@@ -18,21 +18,6 @@ shift + alt - right  : yabai -m window --grid 1:2:1:0:1:1
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # ############################################################### #
 # THE FOLLOWING SECTION CONTAIN SIMPLE MAPPINGS DEMONSTRATING HOW #
 # TO INTERACT WITH THE YABAI WM. THESE ARE SUPPOSED TO BE USED AS #
